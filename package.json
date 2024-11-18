@@ -1,10 +1,10 @@
 {
   "name": "node-commonjs-modules",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "people.js",
   "scripts": {
-    "start": "node ./index.js",
-    "dev": "node --watch ./index.js"
+    "start": "node ./people.js",
+    "dev": "node --watch ./people.js"
   },
   "author": "",
   "license": "ISC",
