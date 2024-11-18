@@ -1,5 +1,5 @@
 function hobbies(...hobby) {
-  return { ...hobby };
+  return { hobbies: [...hobby] };
 }
 
 module.exports = hobbies;
